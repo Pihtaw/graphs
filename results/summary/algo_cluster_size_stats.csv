@@ -1,0 +1,11 @@
+city,clusters_total,mean_size,median_size,min_size,max_size
+Baiyin_China,586,1.7064846416382253,1.0,1,415
+Barcelona_Spain,732,1.366120218579235,1.0,1,269
+Buenos_Aires_Argentina,740,1.3513513513513513,1.0,1,261
+Chicago_Illinois_USA,760,1.3157894736842106,1.0,1,241
+Helsinki_Finland,502,1.9920318725099602,1.0,1,499
+Manhattan_New_York_USA,773,1.2936610608020698,1.0,1,228
+Melbourne_Australia,803,1.2453300124533002,1.0,1,198
+Moscow_Russia,681,1.4684287812041117,1.0,1,320
+Portland_Oregon_USA,513,1.949317738791423,1.0,1,488
+San_Francisco_California_USA,741,1.349527665317139,1.0,1,260

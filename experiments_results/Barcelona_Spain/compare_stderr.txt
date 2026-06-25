@@ -1,0 +1,9 @@
+read_edgelist_remap: lines=1466 mapped_nodes=1000 edges=1466
+Loaded graph: n=1000, edges(undirected)=1466
+Wrote remapped original edgelist to results/orig_remapped.edgelist
+manual: merges=75, new_n=925, time_ms=0
+Wrote manual coarsened graph and mapping to results/
+sequential_coarsen_full: applied_motifs_total=205, final_n=732
+algo_coarsen_full: final_n=732, time_ms=9
+Wrote algo coarsened graph and mapping to results/
+Wrote results to results/compare_results.csv
