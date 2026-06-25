@@ -1,0 +1,3 @@
+algorithm,orig_nodes,coarsened_nodes,compression_ratio,time_ms
+manual,1000,900,0.900,0
+algo,1000,741,0.741,6
